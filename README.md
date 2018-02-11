@@ -1,6 +1,7 @@
 # Get details of the Bank from IFSC code
 
-Just put in the IFSC code and get your bank details
+Just put in the IFSC code and get your bank details.
+A ReactJS Project!!
 
 
 ### Prerequisites
