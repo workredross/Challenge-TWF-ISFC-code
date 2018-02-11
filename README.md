@@ -11,6 +11,7 @@ Node.js and Webpack
 Go to the project directory
 
 ```
-npm instal
+npm install
+webpack -w
 
 ```
