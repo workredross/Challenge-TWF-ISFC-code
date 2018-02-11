@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-// AIzaSyALtmPBjLMXNCFxH99_aTLsZhmGUz9oDqM
 
 import IfscCodeFormField from 'IfscCodeFormField';
 import GetIFSCDataAPI from 'GetIFSCDataAPI';
@@ -54,8 +53,6 @@ class App extends Component {
   }
 
   render() {
-// console.log(this.state.IFSCdata);
-
     return (
       <div>
         <IfscCodeFormField loading = {this.state.loading} handleInput = {this.handleInput.bind(this)} />
